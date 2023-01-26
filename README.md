@@ -1,5 +1,5 @@
 # Finance_Group_Project
-# Finance Group Project
+
 ## Intro 
 In this project our goal is to use multiple indices to show correlations between sectors and Bitcoin. We will be analyzing Stocks in two manners, internal and external correlation. Internal correlation will be between different sectors and will determine if there is a correlation between high & low prices and volume trading in a span of 10 years.  External correlation will be between all sectors and Bitcoin. 
 
