@@ -3,7 +3,7 @@
 ![stock_data](stock_data.png)
 ## Materials 
 Tickers utilized to represent the materials sector were selected based off of market cap from simplywall.st. The companies listed in the figure below all have the highest market caps in the materials sector raging from $69.6 billion to $30.2 billion.
-![TICKER](TICKER.PNG)
+![TICKERS](TICKERS.png)
 Using yahoo finance, historical ticker data for each stock was pulled from January 18th 2013 to January 18th 2023. Yahoo finance provides CSV files with date of information; open, high, low, close, adj_close, and volume. For this project we are only interested in volume, high, and low data. Thus, SQL was used to pull and merge data from individual csv files.
 
 ### Example of SQL code
