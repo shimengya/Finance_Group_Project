@@ -10,6 +10,7 @@ Databases for these sectors were created via Python and SQL and output as CSV fi
 ![stock_data](stock_data.png)
 
 ## Materials 
+The performance of consumer cyclicals is highly related to the state of the economy. They represent goods and services that are not considered necessities but discretionary purchases.
 Tickers utilized to represent the materials sector were selected based off of market cap from simplywall.st. The companies listed in the figure below all have the highest market caps in the materials sector raging from $69.6 billion to $30.2 billion.
 ![TICKERS](TICKERS.png)
 
