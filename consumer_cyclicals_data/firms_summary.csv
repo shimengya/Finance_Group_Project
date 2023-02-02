@@ -1,11 +1,11 @@
-Ticker,Name,Price (Intraday),Avg Vol (3 month),Market Cap (Billion),PE Ratio (TTM),
-AZO,"AutoZone, Inc.",2326.61,145529.00,43.66,19.57,ok
-BKNG,Booking Holdings Inc.,2401.58,341614.00,93.16,39.56,ok
-CMG,"Chipotle Mexican Grill, Inc.",1555.19,295773.00,43.11,52.42,ok
-HMC,"Honda Motor Co., Ltd.",23.95,1124000.00,40.52,8.01,ok
-LULU,Lululemon Athletica Inc.,312.80,1828000.00,39.89,34.99,ok
-LVS,Las Vegas Sands Corp.,54.57,5677000.00,41.70,22.57,ok
-MAR,"Marriott International, Inc.",166.91,1957000.00,52.83,25.48,ok
-ORLY,"O'Reilly Automotive, Inc.",793.38,455070.00,49.65,24.25,ok
-ROST,"Ross Stores, Inc.",115.73,2642000.00,39.85,28.02,ok
-YUM,"Yum! Brands, Inc.",126.63,1799000.00,35.67,28.85,ok
+Ticker,Name,Price (Intraday),Avg Vol (3 month),Market Cap (Billion),PE Ratio (TTM)
+AZO,"AutoZone, Inc.",2326.61,145529.00,43.66,19.57
+BKNG,Booking Holdings Inc.,2401.58,341614.00,93.16,39.56
+CMG,"Chipotle Mexican Grill, Inc.",1555.19,295773.00,43.11,52.42
+HMC,"Honda Motor Co., Ltd.",23.95,1124000.00,40.52,8.01
+LULU,Lululemon Athletica Inc.,312.80,1828000.00,39.89,34.99
+LVS,Las Vegas Sands Corp.,54.57,5677000.00,41.70,22.57
+MAR,"Marriott International, Inc.",166.91,1957000.00,52.83,25.48
+ORLY,"O'Reilly Automotive, Inc.",793.38,455070.00,49.65,24.25
+ROST,"Ross Stores, Inc.",115.73,2642000.00,39.85,28.02
+YUM,"Yum! Brands, Inc.",126.63,1799000.00,35.67,28.85
