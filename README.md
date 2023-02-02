@@ -6,7 +6,6 @@ In this project our goal is to use multiple indices to show correlations between
 Our steps for this project include attaining ten years of stock data for five sectors that include HealthCare, Technology, Automobile, Materials, Commerce, and Bitcoin. Data for the former sectors was obtained from Yahoo Finance in the form of CSV files. Yahoo finance provides CSV files with the date; open, high, low, close, adj_close, and volume.
 Databases for these sectors were created via Python and SQL and output as CSV files. These databases were normalized using in MinMaxScaler from sklearn.preprocessing.
 
-
 ![stock_data](stock_data.png)
 
 ## Consumer_Cyclical 
