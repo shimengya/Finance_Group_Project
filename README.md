@@ -33,7 +33,6 @@ Using yahoo finance, historical ticker data for each stock was pulled from Janua
 ### Example of SQL code
 ![sql_ex](sql_ex.PNG)
 
-
 ![sql_ex2](sql_ex2.PNG)
 
 ![sql_ex3](sql_ex3.PNG)
